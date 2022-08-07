@@ -1,16 +1,13 @@
 # trivia_clean_architecture
 
-A new Flutter project.
+A new Flutter project build with clean architecture.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/7803413/183269654-3d1c9157-dede-400b-bd4f-84a6f9d012ff.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## This project build with
+- Android Studio Chipmunk 2021.2.1
+- Dart SDK 2.17.6
+- Flutter SDK 3.0.5
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project getting trivia data from: http://numbersapi.com/
